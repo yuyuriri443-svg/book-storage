@@ -1,0 +1,1253 @@
+
+    <div class="reader-container">
+        
+        <header class="reader-header">
+            <div class="container container-header">
+               
+                <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAA/ElEQVRoQ+2WMQ7CMAxFnZ6AhYmFnUvBEbgJN4BbMXRhQQxIHACRBHlAqlCCosQurfW7Jv6J3/9K7Wjmn5v5/QkN/NtBOAAHGgkgQo0Am8ttO7BcbbZET7pf+1MKFa/H6NfNGH8IOOcvufO5LOsAXy6E15E3Rer2j9v5MDxnuK7ZAGt3XdjlmihqICUw+Qa4c76kD2HxTf9DfNIR0o6FlL7tV0iKkqYOHNCkW6INB0ooae6x7QBmIaHsYBbCLCQUpZSM7VdIEZyYNBwQQ1kpBAcqwYmV2XYAs5BQUDALYRYSihJmIUWQ1dK2/wPVWEYshAMjwk4eBQfgQCOBN3xZxjHdpNJcAAAAAElFTkSuQmCC" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div><button class="menu-btn" id="chapterListBtn">
+                    
+                </button>
+                 <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACTUlEQVRoQ+2ZQU7CQBSG55WC0YUS1ETFRV2J0YXeAG+iJ8AbiDeQE8ARuIEewYULEmLsQtREMKiJUWhnZGiqBdrO1M6UQKZb2vf+738zb5gZQDP+wIzrRwpg2hWUVgHDOMx+9D6KFLDzeFeXBSocgAp/732WAMEZIijrCAdT0+yLl1azJhpEGIC/8HG54kFiA4QJJ4C6iEAXEDFGUcSB/BuAJVxHqcpSJnNpmjfd9fz+iY3tcxkgkQGiCB8fQDJAuAHiCJcJwgQQKVwGSCCATOEiQSYAkhQuAmQEILe5WwJA5b8FyElB26G3q4hejOKA/ALQDoGxVfUGS1o4L4im4VN3VfcFmLZwFogvAP3I6dM4u7ywUKMLkOyhEjU+1YdQD3n/UzHbaNQkSb8/3wB+JUvSYZ78gRXwdiXvpEkKgDd/IMDaVqFMCDkfbkcALtqPjXJS4mke3vwKQFZVVAV4HVAVCHCA10A1iedqCNHFhxDbCIMCsE2eA67Eh5DffiIIhGdlVwC8DnhdnukhJHoy8xqo2qho5914qgJeB5CGK51W80yW235xV/N7lwjjEms/EjgHNrYPin27fzUMPjjYSmcWj57NGzMJiA3j0Oh/fw1yO/cKkEoftx9ur/1yh27qc5uF+78zfXopQeqEwJtMCACyggk6cU8HyeB66vWpsROUMxRgpAoyVYfETg/cfw5w3xkcjIdC9GyrOnm7wvoy3u/U+UxKPw0TzwXgyqAgFraK8WTxfa1r+jVLuBuJWQG+lNN7SwFMz3sn88xX4ActVpBPopcmMQAAAABJRU5ErkJggg==" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div>
+                <div class="chapter-info">
+                    <span class="chapter-title">
+                        Chương 34
+                        <br class="mobile-show">
+                        <span class="mobile-show extend_name_title">
+                            
+                        </span>
+                    </span>
+                   
+                    <span class="chapter-title chapter-title-desktop desktop-show">
+                        
+                    </span>
+                </div>
+                <button class="menu-btn" id="homeBtnMobile">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+
+        </header>
+
+        
+        <main class="reader-content" id="readerContent">
+                        <div class="chapter-notification">
+                <p><strong>Bấm <a href="https://navyteamn.com/tac-gia?name=Zig">vào đây</a> để đọc thêm các bộ truyện cùng tác giả</strong></p>
+            </div>
+                        <div class="chapter-content">
+                                                            <p><strong>Bản dịch thuộc về Navy Team, cập nhật duy nhất trên trang web navyteamm.com, đọc tại trang web chính chủ để ủng hộ nhóm dịch. Truyện không đủ view có thể sẽ bị drop.</strong></p>
+
+<p><strong>Chương 34</strong></p>
+
+<p>Chase ngay lập tức trừng mắt nhìn anh với đôi mắt đỏ ngầu rồi thô bạo đứng dậy. Nhưng đó không phải là một lựa chọn khôn ngoan. Cơn chóng mặt dữ dội ập đến làm mọi thứ trước mắt hắn tối đen. Hắn loạng choạng rồi ngã nhào về phía trước.</p>
+
+<p>"Cậu Miller!"</p>
+
+<p>Hắn suýt chút nữa đã úp mặt xuống sàn nhà. Trong cơn chóng mặt cực độ, Chase thoáng nghĩ có nên che mặt lại không. Nhưng ngay sau đó, hắn nhận ra đó là một suy nghĩ vô nghĩa. Khi mở mắt ra, Josh đã ôm lấy hắn và đỡ đầu hắn lên, và anh đang nhìn xuống hắn đầy lo lắng.</p>
+
+<p>"Cậu Miller, có nên gọi xe cứu thương không? Cậu ổn không?"</p>
+
+<p>Josh lại hỏi. Chase chậm rãi chớp mắt. Mãi sau hắn mới nhận ra mình đang nằm nửa người trên đùi Josh, gần như dựa hẳn vào anh. Nhưng ngay cả ý nghĩ phải đứng dậy cũng không xuất hiện trong đầu hắn. Tất cả những gì hắn có thể làm là mấp máy môi.</p>
+
+<p>Không.</p>
+
+<p>"Cậu nói gì?"</p>
+
+<p>Josh ghé tai lại gần khi giọng hắn nhỏ dần. Mái tóc vàng mềm mại pha chút nâu của Josh lướt nhẹ trên chóp mũi Chase. Hắn nghiến răng cố gắng trả lời:</p>
+
+<p>"Không cần."</p>
+
+<p>Một tiếng nói nhỏ được thốt, Josh ngẩng lên. Chase vô thức nhìn chằm chằm vào khuôn mặt anh. Ánh mắt không rõ tiêu cự hướng về phía anh làm cho Josh vừa bất an vừa lo lắng.</p>
+
+<p>Anh vội vàng nhìn xung quanh nhưng không thấy ai cả. Josh vội vàng liên lạc với Isaac hay Henry nhưng không ai trả lời. Anh không thể phủ nhận sự thật rằng cả hai người họ đều đã rời đi cùng một lúc.</p>
+
+<p>Hai tên này bị điên sao?</p>
+
+<p>Hiếm khi chửi thề, anh liên lạc với Mark.</p>
+
+<p>"Mark, anh nghe thấy không? Josh đây. Mark!"</p>
+
+<p>[…ơ, …nên, …vậy.]</p>
+
+<p>Tình hình liên lạc không tốt. Josh kìm nén sự bực bội trong lòng, thay vào đó để lại tin nhắn rồi vội vàng quay lại chỗ Chase.</p>
+
+<p>Haa, haa. Haa, haa.</p>
+
+<p>Hơi thở của hắn còn nặng nề hơn lúc nãy. Mùi pheromone tỏa ra từ người hắn cũng ngày càng nồng nặc. Josh thầm nghĩ, có lẽ linh cảm chẳng lành của anh là đúng. Chase chắc chắn đã phát tình. Bằng chứng là đôi má ửng hồng nhè nhẹ, mồ hôi lạnh đọng trên thái dương cùng hơi thở gấp gáp không thể che giấu được.</p>
+
+<p>Đã bỏ thì phải bỏ cho xong chứ.</p>
+
+<p>Mùi pheromone mà Josh ngửi thấy trước đó chắc chắn là của một omega nào đó, anh một lần nữa cảm thấy Chase thật đáng khinh. Nhưng anh không thể lãng phí thời gian được nữa. Hơn hết mùi pheromone của Chase ngày càng nồng nặc. Cứ thế này thì chính anh cũng sẽ bị cuốn vào mất. Anh nhất định phải ngăn chặn điều đó xảy ra.</p>
+
+<p>Do dự một lúc, Josh liếc mắt xuống phía dưới thắt lưng của hắn. Quả nhiên như anh dự đoán, chỗ đó đã phồng lên.</p>
+
+<p>Cứ để thế này thì sẽ rất khó chịu.</p>
+
+<p>Chase cố gắng hết sức để đẩy Josh ra ngay cả khi tinh thần hắn đang mơ màng. Josh nắm lấy vai hắn rồi lại trượt xuống, nắm lấy bàn tay hắn, nhìn xuống Chase.</p>
+
+<p>"Cậu Miller."</p>
+
+<p>Anh cố gắng giữ bình tĩnh nhất có thể. Như thể không có chuyện gì xảy ra, như muốn trấn an Chase. Nhưng điều đó không có tác dụng với hắn.</p>
+
+<p>"Bỏ ra, thằng chó, chết tiệt."</p>
+
+<p>Bị Josh nắm lấy tay mình, bàn tay đang vùng vẫy trong sợ hãi và ghê tởm, Chase tức giận giơ tay kia lên rồi đấm mạnh vào mặt anh. "Bốp", một tiếng vang lên, nhưng sự hả hê chỉ là thoáng qua.</p>
+
+<p>"Á."</p>
+
+<p>"Cậu Miller!"</p>
+
+<p>Josh kêu lên, ôm lấy vai hắn rồi kéo mạnh hắn vào lòng. Anh suýt chút nữa đã trượt tay làm cho đầu Chase đập xuống sàn. Nhưng Josh đã kịp thời đỡ lấy hắn nên Chase chỉ đập mặt vào bờ vai rắn chắc của Josh. Hắn không cảm thấy đau. Toàn thân hắn nóng bừng, các giác quan không thể truyền tải thông tin một cách chính xác được.</p>
+
+<p>Cảm giác mà Chase cảm nhận được chỉ có một. Từng tế bào trong cơ thể hắn đang gào thét. Hắn nghiến răng trước ham muốn điên cuồng này. Mùi pheromone liên tục xộc vào mũi hắn.</p>
+
+<p>Không thể nào.</p>
+
+<p>Chase mơ hồ nghĩ trong cơn chóng mặt như muốn nôn mửa.</p>
+
+<p>Mùi hương đó không thể kéo dài như vậy. Tại sao mùi pheromone cứ liên tục xuất hiện thế này?</p>
+
+<p>Thủ phạm quá rõ ràng. Chắc chắn là do mùi pheromone kích thích khiến não bộ hắn trở nên hỗn loạn. Nếu không thì làm sao có chuyện mùi hương vẫn còn chứ, nơi này chỉ có hắn và người đàn ông này, mà người kia rõ ràng là beta. Chase chắc chắn điều đó, hắn nghiến chặt răng.</p>
+
+<p>Bộ não điên cuồng của mình vẫn nhận thức được mùi hương sao, mặc dù trên thực tế nó không còn tồn tại? Bọn omega lúc nào cũng làm đảo lộn đầu óc của alpha.</p>
+
+<p>Con ả omega đó, mình sẽ giết cô ta.</p>
+
+<p>Tiếng nghiến răng ken két vang lên đầy hung tợn. Nhưng Josh không hề cảm thấy người đang tựa đầu vào vai hắn, cơ thể run rẩy nhẹ nhàng và thở dồn dập đáng sợ chút nào. Anh chỉ cảm thấy tiếc nuối. Có bao nhiêu alpha trội lại để lộ vẻ yếu đuối như thế này chứ? Cùng với cảm giác xót thương, anh nghĩ. Có lẽ cảm giác này xuất hiện chỉ vì người đàn ông này là Chase Miller.</p>
+
+<p>"Cậu Miller."</p>
+
+<p>Josh cố gắng lắc mạnh đầu để xua tan những suy nghĩ đang bị pheromone làm cho mờ mịt rồi bình tĩnh lên tiếng:</p>
+
+<p>"Theo tôi thì cậu nên giải phóng pheromone ra ngoài đi. Gọi người đến ngay thì có lẽ không kịp hay là để tôi giúp cậu được không?"</p>
+
+<p>"Giúp, cái gì?"</p>
+
+<p>Chase lắp bắp giữa những hơi thở gấp gáp. Josh ngập ngừng một lát rồi quyết định đưa tay ra.</p>
+
+<p>"Đây."</p>
+
+<p>Anh cố tình nắm lấy chỗ đó. Khoảnh khắc ấy, Chase hít vào một hơi thật sâu rồi tung ra một cú đấm. Mặc dù trong tình huống này, phản xạ của hắn vẫn thật đáng kinh ngạc. Nhưng lần này Josh đã kịp thời né được.</p>
+
+<p>"Ui chà."</p>
+
+<p>Chase lại lăn xuống sàn lần nữa, lần này Josh không đỡ được hắn, nhưng cũng kịp ngăn đầu hắn va vào sàn. Josh nhanh tay đưa tay còn lại ra đỡ lấy đầu hắn. Vì vậy tay của Josh lại đập xuống sàn, nhưng như thế chẳng là gì. Vấn đề là ngay sau đó, Chase lại tung ra một cú đấm khác vào anh. Lần này thì Josh dễ dàng bắt lấy nó.</p>
+
+<p>Đôi mắt đỏ ngầu nhìn anh đầy giận dữ. Sống lưng Josh run lên. Anh cố gắng kìm nén hơi thở đang trở nên thô bạo vì hưng phấn.</p>
+
+<p>"Cậu có sao không?"</p>
+
+<p>Josh hỏi, Chase khẽ run rẩy. Không thể kìm nén cơn giận, hắn lên tiếng:</p>
+
+<p>"Thằng chó chết tiệt, anh, sao anh dám…?"</p>
+
+<p>"Vâng, tôi dám chạm vào bộ phận sinh dục của khách hàng. Tôi xin lỗi."</p>
+
+<p>Ngay cả bản thân Josh cũng cảm thấy giọng điệu của mình chẳng hề hối lỗi chút nào. Cách sử dụng từ ngữ trần trụi càng khiến điều đó trở nên rõ ràng hơn. Nhưng điều đó không quan trọng. Josh quan tâm hơn đến việc làm cho Chase bình tĩnh lại.</p>
+
+<p>Giờ đây, Chase không chỉ run rẩy trong giọng nói mà còn run rẩy toàn thân. Không thể kiềm chế được sự hưng phấn, hắn thở dồn dập rồi xoay người. Vì vậy mà Josh đã để vuột mất hắn.</p>
+
+<p>Một tiếng rên rỉ đau đớn như xé nát từ sâu trong cổ họng Chase vang lên. Josh lại đưa tay ra với hắn nhưng Chase đã gạt phăng đi.</p>
+
+<p>"Đừng chạm vào tôi, đồ khốn. Tôi sẽ giết anh... tôi sẽ giết anh!"</p>
+
+<p>Đến mức này hắn thậm chí còn không thể nói chuyện một cách trôi chảy, nhưng vẫn nghiến răng đầy căm hờn. Josh cố gắng dỗ dành hắn nhưng Chase hoàn toàn không nghe lời.</p>
+
+<p>"Cút đi, tránh xa tôi ra! Anh không nghe thấy sao, đồ chó chết? Tôi sẽ giết anh!"</p>
+
+<p>Gào thét với những mạch máu nổi lên ở cổ, Chase cố gắng đứng dậy. Nhưng cơ thể hắn không nghe theo ý chí của hắn. Hắn khuỵu xuống, cào cấu ngực mình và thở dốc như thể sắp đứt hơi. Hắn có vẻ như sắp chết đến nơi. Với tình hình đó, hắn vẫn không cho ai chạm vào người, cố gắng chống cự, Josh cuối cùng cũng không thể chịu đựng được nữa, quát lên:</p>
+
+<p>"Cậu định làm gì nếu pheromone tích tụ lại làm cậu mất ý thức hả?"</p>
+
+<p>Phản ứng ngay lập tức. Đây là lần đầu tiên Josh thấy khuôn mặt Chase cứng đờ như vậy.</p>
+
+<p>À, hay là lần thứ hai nhỉ?</p>
+
+<p>Josh chợt nghĩ. Gương mặt của Chase lúc mê man, đau đớn trong giấc ngủ ngày hôm đó, mơ hồ chồng lên hình ảnh hiện tại. Kìm nén cảm giác chua xót trước dáng vẻ run rẩy, thở dốc của Chase, Josh lạnh lùng tiếp lời:</p>
+
+<p>"Tôi không biết đã có chuyện gì xảy ra, nhưng với tình trạng này, cậu khó mà cầm cự được lâu. Nếu cậu không muốn tôi giúp, vậy tôi tìm người đã ở cùng cậu lúc nãy nhé? Không biết có kịp thời gian không nữa."</p>
+
+<p>Đó là tất cả những gì anh có thể đề nghị. Ngửi thấy mùi hương omega còn vương vấn, hẳn là họ đã ở cùng nhau cho đến tận lúc trước, nếu tìm được người đó thì mọi việc sẽ dễ dàng hơn. Việc thuyết phục cũng sẽ không còn khó khăn gì.</p>
+
+<p>Suy nghĩ đơn giản là vậy, nhưng phản ứng của Chase lại hoàn toàn khác với dự đoán của anh. Khuôn mặt hắn tái mét, môi mím chặt không nói nên lời. Ánh mắt vẫn dán chặt vào Josh nhưng không hề có vẻ gì là đang trừng trừng. Thay vào đó, đôi mắt dao động như thể đang hoảng sợ khiến Josh bối rối.</p>
+
+<p>“Cậu Miller?”</p>
+
+<p>Trước giọng nói thận trọng của Josh, Chase giật mình như thể vừa tỉnh táo lại. Josh muốn chờ đợi sự lựa chọn của hắn, nhưng anh không chắc mình có thể cho hắn nhiều thời gian hay không. Mùi pheromone nồng nặc bao quanh từ lúc nãy đã khiến lý trí của anh cũng lung lay. Chỉ cần sơ sẩy một chút, có lẽ anh sẽ đè Chase xuống mất. Điều đó tuyệt đối không thể xảy ra được.</p>
+
+<p>Trong lúc vô thức cau mày, Chase nghiến răng và dùng cả hai tay che mắt lại.</p>
+
+<p>"Chết tiệt...!"</p>
+
+<p>Một tiếng chửi rủa rít lên qua kẽ răng. Josh nhìn xuống Chase đang nằm trên bãi cỏ một lúc rồi hỏi lại lần nữa.</p>
+
+<p>"Tôi giúp cậu được không?"</p>
+
+<p>Chase không trả lời. Hình ảnh đôi môi đang bị cắn chặt hiện lên trong tầm mắt Josh. Anh muốn ấn cằm hắn để hắn nhả ra nhưng rồi lại thôi. Không có thời gian để suy nghĩ nhiều. Sau khi xác nhận lại một lần nữa rằng xung quanh không có ai, Josh quay lại.</p>
+
+<p>Nuốt khan một tiếng, anh đưa tay xuống nửa dưới người Chase. Vẫn giữ một tay đỡ lấy đầu hắn.</p>
+
+<p>Chase chỉ nằm im, môi vẫn cắn chặt. Chắc là đã quen với việc được phục vụ rồi?</p>
+
+<p>Chắc là vậy.</p>
+
+<p>Một cảm xúc khó tả thoáng qua trong lòng Josh. Anh cố tình bỏ qua nó rồi dùng một tay mò mẫm thắt lưng của Chase. Tiếng kim loại va chạm kêu lên chói tai. Anh cố tình chuyển sự chú ý sang chỗ khác, thô bạo cởi nó ra.</p>
+
+<p>Tiếng thở dồn dập của Chase đột ngột dừng lại. Dáng vẻ hắn nín thở, run rẩy nhẹ nhàng vừa đáng thương vừa khiến Josh vô cùng hưng phấn. Nhận ra bàn tay mình đang run rẩy vì một lý do khác, anh vội vàng nắm rồi thả nắm đấm trong không trung.</p>
+
+<p>Tỉnh táo lại, tỉnh táo lại!</p>
+
+<p>Anh định làm mọi việc thật nhanh chóng, từ việc cởi nút đến kéo khóa quần, nhưng chỗ phồng lên kia đã cản trở anh. Josh khựng lại một chút rồi lạnh lùng kéo khóa xuống. Rất thuần thục.</p>
+
+<p>"...! "</p>
+
+<p>Một tiếng thở sắc nhọn vang lên từ phía trên. Chase vừa kêu lên. Là do lúc kéo khóa, anh đã chạm vào chỗ đó. Dù không cố ý nhưng đó là điều không thể tránh khỏi, vì thế Josh không hề xin lỗi mà nói một câu thừa thãi:</p>
+
+<p>"Tôi sẽ lấy nó ra."</p>
+
+<p>Một câu nói vô vị như thể anh đang lấy một chiếc bánh nướng từ tủ lạnh. Nhưng thứ Josh lấy ra từ bên trong chiếc quần lót của hắn lại là một chiếc bánh mì dài. Hơn nữa còn chưa được cắt.</p>
+
+<p><em>*Wtf bánh mì dài chưa được cắt =)))</em></p>
+
+<p>Josh sững người một lúc. Nó đã cương cứng đến mức này rồi sao, vậy thì hắn đã đau đớn đến mức nào chứ? Vừa đồng cảm với nỗi đau của Chase, vừa nghĩ đến việc thứ này đã từng ở trong cơ thể mình khiến tim anh lạnh buốt.</p>
+
+<p>Nhưng anh không có thời gian để do dự. Vật nóng hổi trong tay anh có vẻ như sắp nổ tung đến nơi. Nó dày đến mức bàn tay lớn của Josh cũng không nắm được. Mặt anh đỏ bừng. Trái tim vốn đang lạnh lẽo bỗng chốc nóng rực lên đáng kinh ngạc.</p>
+
+<p>Còn tiếp</p>
+
+<p><strong>Bản dịch thuộc về Navy Team, cập nhật duy nhất trên trang web navyteamm.com, đọc tại trang web chính chủ để ủng hộ nhóm dịch. Truyện không đủ view có thể sẽ bị drop.</strong></p>
+
+<p><br>
+<br>
+&nbsp;</p>
+                                                </div>
+        </main>
+
+
+        
+        <div>
+            <div class="settings-panel" id="textSettingsPanel">
+                <div class="settings-header">
+
+                    <div class="settings-title"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                            <path d="M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4l54.1 0 109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109 0-54.1c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7L352 176c-8.8 0-16-7.2-16-16l0-57.4c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-23 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z"></path>
+                        </svg>
+                        <p>Cài đặt</p>
+                    </div>
+                    <button class="close-btn" id="closeSettings">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+
+                <div class="settings-content">
+                    <div class="setting-group">
+                        <label class="setting-label">Màu nền</label>
+                        
+                    </div>
+
+                    <div class="setting-group">
+                        <label class="setting-label">Giãn dòng</label>
+                        <div class="setting-control">
+
+                            <span class="control-value" id="lineHeightValue">180%</span>
+                            <button class="control-btn" id="decreaseLineHeight">−</button>
+                            <button class="control-btn" id="increaseLineHeight">+</button>
+                        </div>
+                    </div>
+
+                    <div class="setting-group">
+                        <label class="setting-label">Cỡ chữ</label>
+                        <div class="setting-control">
+
+                            <span class="control-value" id="fontSizeValue">14px</span>
+                            <button class="control-btn" id="decreaseFontSize">−</button>
+                            <button class="control-btn" id="increaseFontSize">+</button>
+                        </div>
+                    </div>
+
+                    <div class="setting-group">
+                        <label class="setting-label">Font chữ</label>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-toolbar">
+
+                <div class="container">
+                    <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABHElEQVRoQ+2WAQqDMAxF9abuJHMnmbvZjrKGVShFqU1+SYIpDHGS9L//A+08OV+zc/1TAGgnGAlEAkIHYoSEBorLI4ETC5f8/ya2uNFgRALPtOea932k51AINEApnhhcAdTiX0USwyYJlYCKeHIFAaAmHgGgKl4KoC5eAmBCPBfAjHgOgCnxvQDmxPcA1OK/qfgz7HT6N6Y9mteQK+fAkhq9B4s9a9+8itwCgNxZ04/GaF+uRmgXXUPQO13YVNeVESoFmoPoBTgaJ9UkOACmILgAZiAkACYgpADqEAgAVQgUgBoEEuAIonmXkZ6CaIAawiUAQSzZ2U3qcKt+RAKtPaHfAwBqJ6NZJMAwDVoSCUDtZDSLBBimQUvcJ/ADS1M6MXmfc1sAAAAASUVORK5CYII=" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div><button class="action-btn mobile prev-btn arrow-left" id="bookmarkBtn">
+                        
+                    </button>
+
+                    
+                    <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABNklEQVRoQ+1YTQ5BMRCeeWdgw8ZS4hAchZN4TsJRuIXExoYNJxBeqeQlJamZtq/hxWf1kulM5/uZSoap5T9uef8EAN9WEApAgUQG/sNC3f5oasxtkEhWUDrzbX867FZSkqiAbb6qrkupUI54UVQzCYQIoNMblsaYeY4GpZrMvDgft+Wnc0EAmHj9+OvbSBc/44bGhszEfkbnNQ5AUbAG5yqnYTI2L0yBNgJwh1gzVLFM1nmh94kK2MK2KNGFpBfBnY1YC4XepwKgGtq3QykAQu4DAB9bUEDpI1gIFlJaxXcMFoKFYKFEBmChRALxCsFCsFAiA7BQIoF4hVwCX3aonsWWduepFaYxBUJ2qCHrGQkIAHgt5KHuZy0kSZ0r3piFcjUo1QUAiaHccSiQm2GpPhSQGModvwMX0FFANmdxMAAAAABJRU5ErkJggg==" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div><button class="toolbar-btn" id="textSettingsBtn">
+                        
+                    </button>
+                    
+                    <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAFMElEQVRoQ91aW1bbRhieX7KFoNA6gHPA5LTKQ8Bpek7FCgoraFgBsAKSFQArCF1B3BVAVhBnBVHPaVouD9VDMbS2idOUxBc0f2dErUpjXUbGhlA/j2b+779+842B3PIf3HL7yUABGIaZOz8/N4hGTIdmcgpgjjuIIjQA2jYo2cZ4Rrds22oMynFXBpA3HphOG75XUFlCgksyhgGBMnPdq4yml05ty5b5JmpN3wCm7xWXiEM2ZY2ONgDKoDg/Vo+PSv0ASQ0gbzwyseU8izQcgXmUlomqvgNEN1UQIAdIv6IEDUAwwwxVgFiqNrqSNiKpAEzOLmywD3ZEA5hRZVToDxPaWDkpv3mdvG9/YKmmPiZIV8W9EHDrrHK4LRsNKQD80L9bzV3R6yqo22OatpNkdJQxM4ZpdNqtLREIANkb10bXZfZNBOAe0mq+ZIlgdA3hHs/o+nracMcBuWg1nwcdBHZ2RF9OOiMWgBvuVvN1wHjm9Vrlly3ZEKdZd7fw9ZaDzuZ/34A9MaIvxkUiFsB0YWEXkTzubqgomfXq8Zu+uoUskMnZh0+A0GdetFnLrZ3sL6duo9OF+U1E8DwNRHlaO/m1p4BlDUuzLj/3aI3Si+fdb5CdfRZxdmgELvP+42+eF4aYNlHAxHRSLuhitXpk9XTAsA0mC/Ovu/2aF2ztNDqEaTybdu30bPFlt7D59A5LpZ4IiOHLjozeT+oEaQ2TXd+TCWp2ufb7z2X/9z0A/KgJYql+ergue+Aw1t0tFFlnQrczhUUhAEBEfJPe7zrDMFkr/+PjW68TCrUQADDN0OK/aD8F73eNDtQCAJtD+77u6It7IH0cXKn/ebgXlxa8XhAd4yqpA+DYSUx0qjDPeBPshqWRFwExVBMjo3fiJqBY7FcBoSiUDchoOh1nmwdghvH7joOM83D6S6yzysFikvf9w2aYAPjeU7NFNpcu+Zh/JngAAmEC8qJWOfAoRJRx15VCLoDCfIl51qXf/oh5AAIchHH7+vHRk6t4ddDfTs093CGUbrgZ4qMWHgB/BwKh0gdtTD/7Rdn3/wFw61Mo0BYlKYRMEcv0eZmUCtxNfDPKSyGu79CWwm5f7riw6yf79wfVRpP6vAyAAEP2kbprGWRXBSA1yLgXhkElBpFCgRkl3E8CZC6JusqEehhrpuaKz5nAuuYmdxyZC9YBIUl8aBjGinsmUfzYC82nMNAC3g+53vYAmLn3DSN1HZfU8d9NRkH0flgzCFUlJgsLbwGJq+3fJAB/U2FvDVa1ctjDkHsv9f55AKRRrxzcuY5cF88Qdamo620PgLiWdV1ARBUcYnSp3iL234tvgFbnvyyu0g6Wus7iSjW7m6xEOS8EgE8PlbgXDzIqYtogozSfpxV3/ZwjSs6bMYqGTvSGjH4vA5B3G1Fe58ZraeV1kXPUTw4gn39g8ldHdpH7FimY7AXFZFcit0MRBUvZ7Nh2v8odl+//an/YYPLllh8olzPHdX1FxkFBYct3sXc3ZF3IMzbOlQwIQefFhDYh+cT0fgkwuxH2zpZWBQ8AELV5mfCLa3i/5uFnxWczef7dJX/BL9gDX45QZcn/WCJ6HXT1adV+06NAx9kRABCq9bBXR1CQbQo/IaFWVhuzeMq4lxnHWWUpxYzq/+c+V2Uy26eCaCu7Y6g67VCa01TV0jOZxFd1twDbzTVCyXeyYLjRiqK8wk5nL0zzlzX+MssH+ONF2by4MDu0nUNUDf9fDVRFaZAssT4jWVumOGXNGigA2UMHue7WA/gHMq1QXuDMVx0AAAAASUVORK5CYII=" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div><button class="toolbar-btn" id="commentsBtn">
+                        
+                    </button>
+                    
+                    <div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABTklEQVRoQ+2YTRLBQBCFZ7gCFmysLDgUTpI4CaeyYM2GcgAlaWYhpWymo/8qqrNNz+R973VVdyWGjj+x4/qDA1gn6Al4AkQHvIWIBpKPewIYC4eTxSqEe7icjjtMfZsa8QSS+Lp+bJMoiFDezodNG4G5WlUACQhxgCR6NJ6XFVTF203OJFQAJCHUAKQgVAEkINQBuCFMADghzAC4IEwBOCDMAagQKIC0DgBU09xYp7yvISxjgOYb2GGXBfjcZSgCfznb69Xr3AL4/wDJOY0WglcLvfbVpoVi7G+u532ZSy6bQO4CjveD8awAiI1YrPj0bXMAinhzAKp4UwAO8WYAXOJNADjFqwNwi1cFkBCvBiAlXgXge5dqM6QwQ1J8kH0CcItXSeC9S3X21yKmDSg14i1EEYc56wAYlyRrPAFJdzF3ewIYlyRrPAFJdzF3PwGSSfExwbKCCAAAAABJRU5ErkJggg==" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div><button class="action-btn mobile next-btn arrow-right">
+                       
+                    </button>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    
+    <div class="chapter-dropdown" id="chapterDropdown">
+        <div class="chapter-list">
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 149:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 53</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 148:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 52</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 147:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 51</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 146:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 50</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 145:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 49</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 144:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 48</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 143:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 47</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 142:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 46</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 141:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 45</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 140:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 44</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 139:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 43</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 138:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 42 - Pete, thay vì chó, có em nhỏ thì sao?</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 137:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 41</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 136:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 40</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 135:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 39</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 134:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 38</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 133:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 37 - Papa của Pete là C</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 132:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 36</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 131:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 35</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 130:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 34</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 129:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 33</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 128:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 32 - Đến nhà Josh</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 127:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 31</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 126:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 30 - H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 125:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 29</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 124:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 28 - H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 123:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 27</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 122:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 26</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 121:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 25</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 120:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 24 - Tôi có omega của riêng mình rồi</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 119:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 23</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 118:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 22</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 117:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 21</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 116:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 20</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 115:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 19</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 114:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 18</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 113:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 17</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 112:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 16</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 111:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 15</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 110:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 14</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 109:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 13</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 108:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 12</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 107:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 11</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 106:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 10</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 105:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 9</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 104:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 8 - Ghen</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 103:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 7 - H - Anh đã bao giờ… ăn chuối đông lạnh… chưa?</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 102:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 6 - Thắt nút</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 101:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 5 - Phạt em đi</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 100:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 4</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 99:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 3</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 98:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 2</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 97:</span>
+                        <span class="chapter-title chapter-name">Ngoại truyện 1</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 96:</span>
+                        <span class="chapter-title chapter-name">Hoàn</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 95:</span>
+                        <span class="chapter-title chapter-name">Pete… Là con của em và anh</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 94</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 93:</span>
+                        <span class="chapter-title chapter-name">Lạc mất Pete</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 92:</span>
+                        <span class="chapter-title chapter-name">Chase gặp Pete</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 91:</span>
+                        <span class="chapter-title chapter-name">Em yêu anh</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 90</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 89</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 88</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 87:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 86:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 85</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 84:</span>
+                        <span class="chapter-title chapter-name">Bị phát hiện</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 83</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 82</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 81</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 80</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 79:</span>
+                        <span class="chapter-title chapter-name">Cầu hôn đi</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 78:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 77:</span>
+                        <span class="chapter-title chapter-name">Vết mổ đẻ</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 76:</span>
+                        <span class="chapter-title chapter-name">Chase giả gái</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 75</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 74</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 73</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 72</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 71</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 70:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 69:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 68</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 67</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 66:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 65</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 64</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 63:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 62:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 61:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 60</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 59</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 58</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 57</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 56</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 55</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 54</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 53</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 52</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 51</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 50</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 49</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 48</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 47</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 46</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 45</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 44</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 43</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 42</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 41</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 40</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 39</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 38</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 37</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 36</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                            
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="check-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="20,6 9,17 4,12"></polyline>
+                        </svg>
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 34</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 32</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 31</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 30</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 29</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 28</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 27</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 26</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 25:</span>
+                        <span class="chapter-title chapter-name">H</span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 24</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 23</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 22</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 21</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 20</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 19</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 18</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 17</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 16</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 15</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 14</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 13</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 12</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 11</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 10</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 9</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 8</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 7</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 6</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 5</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 4</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 3</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 2</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 1</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                            
+                                        <div class="chapter-info">
+                        <span class="chapter-title chapter-number">Chương 0</span>
+                        <span class="chapter-title chapter-name"></span>
+                    </div>
+                
+                    </div>
+    </div>
+
+    
+
+
+    
+    <div class="comments-panel" id="commentsPanel">
+        <div class="comments-header">
+            <button class="close-btn" id="closeComments">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+            <h1>💬 Bình luận (0)</h1>
+        </div>
+         
+                                            <div class="comment-input-section">
+                            <div class="comment-input-wrapper">
+                                <div class="avatar-illustration">
+                                    <div><img src="data:image/png;base64,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" style="max-width:100%; height:auto; display:block; margin:10px auto;"></div>
+                                    <span class="avatar-status"></span>
+                                </div>
+                                <div>Bạn cần <a href="https://navyteamn.com/dang-nhap">đăng nhập</a> để bình luận.</div>
+                            </div>
+                        </div>
+                            
+
+        
+        
+       
+        
+    </div>
+
+    
+    <div class="popup" id="readingPopup" style="display:none;">
+        <div class="popup-content" style="position:relative;">
+            <button id="closeReadingPopup" aria-label="Đóng" style="position:absolute;top:-5px;right:-50px;background:none;border:none;font-size:18px;cursor:pointer;">×</button>
+            <p style="margin-top:12px;">Bạn có muốn lưu vị trí đang đọc để lần sau tiếp tục?</p>
+            <div class="toolbar-popup" style="display:flex;gap:10px;justify-content:center;margin-top:16px;flex-wrap:wrap;">
+                <button class="nav-btn next-btn" id="saveReadingBtn" style="min-width:140px;">Lưu vị trí đọc</button>
+                <button class="nav-btn prev-btn" id="exitReadingBtn" style="min-width:120px;">Về trang chủ</button>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+
+    
+    
+    
+    
+
+    
